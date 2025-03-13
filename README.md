@@ -1,7 +1,7 @@
 # CPU-Hardware
 ## Components
 ### Control and Coordination Units
-Control Unit 
+#### Control Unit 
   * Directs the flow of data, fetches instructions, decodes them, and controls execution.
   * Without CU, a CPU cannot function; it acts as the "brain" of the processor.
   * Manages instruction execution cycles in all modern CPUs.
